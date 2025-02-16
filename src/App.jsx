@@ -28,7 +28,7 @@ const App = () => {
     <ProjectMain/>
     <ContactMain/>
     <FooterMain/>
-    <HelperSection/>
+    
 
    </main>
   )

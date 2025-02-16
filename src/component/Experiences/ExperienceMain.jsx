@@ -6,7 +6,7 @@ import { motion } from 'framer-motion';
 import { fadeIn } from "../../FramerMotion/Variants";
 const ExperienceMain = () => {
   return (
-    <div id='experience' className='max-w-[1200px] mx-auto px-4' >
+    <div id='experience' className='mx-auto px-4' >
         <motion.div
           variants={fadeIn('down',0.4)}
           initial='hidden'
