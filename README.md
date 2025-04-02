@@ -18,9 +18,5 @@ CMS & Tools: Sanity.io, Git, GitHub, REST APIs
 
 🔗 API Development – Creating efficient API integrations using MongoDB and Express
 
-📫 Connect with Me
-💼 LinkedIn
+💻 Portfolio Website : port-folio-flame-five.vercel.app
 
-💻 Portfolio Website
-
-✉️ Email
